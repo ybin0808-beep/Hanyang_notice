@@ -19,6 +19,7 @@ import requests
 FEEDS = {
     "한양대 전체공지": "https://www.hanyang.ac.kr/web/www/notice_all?p_p_id=kr_ac_hanyang_noticeBoard_web_portlet_NoticeBoardPortlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_kr_ac_hanyang_noticeBoard_web_portlet_NoticeBoardPortlet_cmd=rss",
     "경영대 공지": "https://bizug.hanyang.ac.kr/-3?p_p_id=kr_ac_hanyang_bbs_web_portlet_BbsPortlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_cmd=rss",
+    "국제학부 공지": "https://sis.hanyang.ac.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-notice?p_p_id=kr_ac_hanyang_bbs_web_portlet_BbsPortlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_cmd=rss",
 }
 # ============================================================
 
